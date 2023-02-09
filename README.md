@@ -1,4 +1,5 @@
 # BootStrapDesign-Resume
 
 > Deployed url:
-https://heroic-pika-7e6872.netlify.app/
+> https://srishylam12.github.io/Srishylam-s-Resume/
+
